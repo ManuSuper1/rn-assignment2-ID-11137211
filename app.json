@@ -11,6 +11,9 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "expo": {
+      "sdkVersion": "51.0.0"
+    },
     "ios": {
       "supportsTablet": true
     },
